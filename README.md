@@ -84,3 +84,5 @@ You unlocked the door and escaped! You are free! is printed.
 The loop ends using break.
 
 Program finishes.
+
+<img width="1701" height="1070" alt="Screenshot 2025-11-24 141932" src="https://github.com/user-attachments/assets/06f35035-3f1d-46d2-8e90-262ec7ea3cf5" />
