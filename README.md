@@ -6,11 +6,14 @@ This is a simple command-based text action game written in C. The player is stuc
 
 Interactive command-based gameplay
 
-Simple inventory system (hasKey)
+Continuous game loop until escape
+
+Unique:
 
 ASCII movement animation
 
-Continuous game loop until escape
+Simple inventory system (hasKey)
+
 
 
 Gameplay Overview :
